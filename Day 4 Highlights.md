@@ -44,6 +44,9 @@ On **Day 4**, I felt really confident because I built a **Bookmark Manager Websi
 This project gave me hands-on practice with **HTML basics, attributes, and VS Code productivity hacks**.  
 It felt exciting to actually make something useful where I can manage and access bookmarks directly in my own web page 🌐✨. 
 It was very cool & don't thought that i would make my first website on the day 4 th . 
-That's the Spiker for Me ! 
+That's the Spiker for Me !
 
-
+## 🗂 Project Files
+Click to view the files directly:  
+- `bookmatkmanager.html`  
+- `style1.css`  
