@@ -49,5 +49,5 @@ That's the Spiker for Me !
 ## 🗂 Project Files
 Click to view the files directly:
 
-✅bookmatkmanager.html  
-✅style1.css  
+bookmatkmanager.html  
+style1.css  
