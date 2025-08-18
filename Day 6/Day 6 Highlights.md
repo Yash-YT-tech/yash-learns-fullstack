@@ -48,5 +48,4 @@ Day 6 made me realize that **SEO is not just about keywords, it’s about user e
 If my website loads fast, doesn’t shift layouts, and responds quickly → **Google will rank it higher 🚀**.  
 I also learned how to use **Lighthouse** to check my site’s health, and now I feel more confident in building **professional, optimized, and user-friendly websites 🌐✨**.  
 
-## 🗂 Project Files
-- ✅ `day6-highlights.md`
+
