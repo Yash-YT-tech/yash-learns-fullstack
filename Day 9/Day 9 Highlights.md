@@ -50,8 +50,8 @@
 
 ---
 
-## 📂 Project/Code Files (Suggested for Practice)
-- `index.html` → create multiple elements with classes & one unique ID.  
-- `style.css` → test different selectors (`.class` vs `#id`).  
-- `anchors.html` → practice in-page navigation with `#id` links.  
+## 📂 Project Files 
+Click to view the files directly:  
+✅ [index.html](./index.html) 
+
 
