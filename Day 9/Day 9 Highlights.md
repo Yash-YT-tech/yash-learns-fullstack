@@ -53,5 +53,7 @@
 ## 📂 Project Files 
 Click to view the files directly:  
 ✅ [index.html](./index.html) 
+✅ [style.css](./style.css)  
+
 
 
