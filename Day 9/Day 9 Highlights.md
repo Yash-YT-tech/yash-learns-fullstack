@@ -1,5 +1,4 @@
-# 📝 Learning Summary: IDs and Classes in HTML  
-*Sigma Web Dev Tutorial #9*
+# 📝 Sigma Web Dev Course — Day 9 (Tutorial #9) Summary 
 
 ---
 
@@ -55,3 +54,4 @@
 - `index.html` → create multiple elements with classes & one unique ID.  
 - `style.css` → test different selectors (`.class` vs `#id`).  
 - `anchors.html` → practice in-page navigation with `#id` links.  
+
