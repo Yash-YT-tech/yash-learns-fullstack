@@ -38,8 +38,10 @@
 
 ---
 
-## 📂 Project/Code Files (Suggested for Practice)
-- `index.html` → test `<div>`, `<p>` vs `<span>`, `<a>`  
-- `style.css` → apply different `display` properties and background colors  
-- `practice.html` → mix block and inline elements to see behavior in action
+## 📂 Project Files
+Click to view the files directly:  
+✅ [index.html](./index.html)  
+✅ [style.css](./style.css)  
+
+
 
