@@ -1,5 +1,4 @@
-# 📝 Learning Summary: Inline vs Block Elements in HTML  
-*Sigma Web Dev Tutorial #8*
+# 📝 Sigma Web Dev Course — Day 8 (Tutorial #8) Summary  
 
 ---
 
@@ -43,3 +42,4 @@
 - `index.html` → test `<div>`, `<p>` vs `<span>`, `<a>`  
 - `style.css` → apply different `display` properties and background colors  
 - `practice.html` → mix block and inline elements to see behavior in action
+
