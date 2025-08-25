@@ -57,10 +57,15 @@
 
 ✅ Key Takeaways
  •	Use controls for playback UI.
+ 
  •	Combine autoplay + muted for silent auto-start; add loop for continuous playback.
+ 
  •	Use poster for thumbnails & width/height for stable layouts.
+ 
  •	Choose preload wisely → none, metadata, or auto.
+ 
  •	SVG = crisp graphics, resolution-independent.
+ 
  •	iframe = embed external sites/videos (e.g., YouTube).
 
 ---
@@ -70,6 +75,7 @@
 Click to view the files directly:  
 ✅ [index.html](./index.html)  
 ✅ [style.css](./style.css)  
+
 
 
 
