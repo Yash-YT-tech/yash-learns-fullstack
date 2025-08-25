@@ -56,6 +56,7 @@
 ---
 
 ✅ Key Takeaways
+
  •	Use controls for playback UI.
  
  •	Combine autoplay + muted for silent auto-start; add loop for continuous playback.
@@ -75,6 +76,7 @@
 Click to view the files directly:  
 ✅ [index.html](./index.html)  
 ✅ [style.css](./style.css)  
+
 
 
 
