@@ -1,5 +1,4 @@
-# 📝 Learning Summary: Video, Audio & Media in HTML  
-*Sigma Web Dev Tutorial #10*
+# 📝 Sigma Web Dev Course — Day 10 (Tutorial #10) Summary 
 
 ---
 
@@ -71,4 +70,5 @@
 Click to view the files directly:  
 ✅ [index.html](./index.html)  
 ✅ [style.css](./style.css)  
+
 
