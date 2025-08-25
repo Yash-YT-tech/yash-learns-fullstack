@@ -76,8 +76,9 @@
 Click to view the files directly:  
 ✅ [index.html](./index.html)  
 ✅ [Poster Image](./Teamone.png)  
-✅ [Video](./price%20action%20tips.mp4) 
+✅ [Video](./price%20action%20tips.mp4)   
 ✅ [Audio](./sample-3s.mp3) 
+
 
 
 
