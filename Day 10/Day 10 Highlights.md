@@ -20,8 +20,6 @@
   - `poster` → thumbnail before playback  
   - `width/height` → display size  
 
-💡 **Tip:** Use `autoplay + muted (+ loop)` for reliable auto-play.
-
 ---
 
 ## 🎵 The `<audio>` Element
@@ -58,17 +56,6 @@
 
 ---
 
-## 🛠️ Practical Usage
-```html
-<!-- Video -->
-<video controls autoplay muted loop poster="thumb.jpg" width="640" height="360" src="movie.mp4"></video>
-
-<!-- Audio -->
-<audio controls preload="metadata" src="track.mp3"></audio>
-
-<!-- YouTube iframe -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xyz123?start=30" frameborder="0" allowfullscreen></iframe>
-
 ✅ Key Takeaways
 •	Use controls for playback UI.
 •	Combine autoplay + muted for silent auto-start; add loop for continuous playback.
@@ -84,3 +71,4 @@
 Click to view the files directly:  
 ✅ [index.html](./index.html)  
 ✅ [style.css](./style.css)  
+
