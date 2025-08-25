@@ -75,7 +75,9 @@
 📂 Project Files 
 Click to view the files directly:  
 ✅ [index.html](./index.html)  
-✅ [Poster Image](./Teamone.png) 
+✅ [Poster Image](./Teamone.png)
+✅ [Video](./price%20action%20tips.mp4) 
+
 
 
 
