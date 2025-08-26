@@ -57,5 +57,6 @@
 📂 Project Files 
 Click to view the files directly:  
 ✅ [index.html](./index.html)  
-✅ [Semantic Tags Image](./Semantic Tags.png)
+✅ [Semantic Tags Image](./Semantic%20Tags.png)
+
 
