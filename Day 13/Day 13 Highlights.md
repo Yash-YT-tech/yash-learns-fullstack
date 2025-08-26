@@ -87,4 +87,5 @@
 📂 Project Files  
 Click to view the files directly:  
 ✅ [index.html](./index.html)  
-✅ [Code Examples Folder](./code-examples/)
+✅ [Image for the Entities](./Entities.png/)
+
