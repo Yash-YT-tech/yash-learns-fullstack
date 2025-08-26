@@ -50,4 +50,12 @@
 - I realized using `<div>` everywhere makes the code messy and hard to maintain; semantic tags solve this problem elegantly.  
 - Accessibility is not optional; making content readable for screen readers improves the experience for everyone.  
 - Even if it doesn’t visually affect the page, using semantic tags feels like **writing code that communicates**, not just functions.  
-- I now approach HTML with a mindset of clarity and meaning — structure first, style second.  
+- I now approach HTML with a mindset of clarity and meaning — structure first, style second.
+
+---
+
+📂 Project Files 
+Click to view the files directly:  
+✅ [index.html](./index.html)  
+✅ [Semantic Tags Image](./Semantic Tags.png)
+
