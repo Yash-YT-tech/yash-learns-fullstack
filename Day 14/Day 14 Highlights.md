@@ -75,5 +75,6 @@
 📂 Project Files  
 Click to view the files directly:  
 ✅ [HTML File](./index.html)  
-✅ [CSS Intro](./)
+✅ [CSS Intro](./style.css)
+
 
