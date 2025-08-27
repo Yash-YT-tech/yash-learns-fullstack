@@ -1,4 +1,4 @@
-# 📝 Sigma Web Dev Course — Day 14 (CSS Introduction) Summary
+# 📝 Sigma Web Dev Course — Day 14 (CSS Introduction) Summary #1
 
 ---
 
@@ -75,6 +75,7 @@
 📂 Project Files  
 Click to view the files directly:  
 ✅ [HTML File](./index.html)  
+
 
 
 
