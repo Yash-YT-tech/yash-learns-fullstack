@@ -74,5 +74,6 @@
 
 📂 Project Files  
 Click to view the files directly:  
-✅ [CSS Intro Example](./css-intro/)  
-✅ [HTML Reference Folder](./html-examples/)
+✅ [HTML File](./index.html)  
+✅ [CSS Intro](./)
+
