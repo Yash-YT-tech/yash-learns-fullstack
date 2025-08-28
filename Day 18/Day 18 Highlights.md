@@ -30,5 +30,10 @@ Today I finally understood that CSS is not just about styling but also about **c
 - Margins act like personal space between two boxes.  
 - Borders help highlight or separate elements visually.  
 
-I realized that mastering the box model is like learning the foundation of CSS layouts – once you get it right, positioning and spacing become much easier.  
+I realized that mastering the box model is like learning the foundation of CSS layouts – once you get it right, positioning and spacing become much easier. 
+
+📂 Project Files  
+Click to view the files directly:  
+✅ [index.html](./index.html)  
+
 
