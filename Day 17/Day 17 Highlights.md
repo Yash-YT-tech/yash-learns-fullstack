@@ -1,4 +1,4 @@
-# 📝 Sigma Web Dev Course — Day 17 (CSS Selectors MasterClass) Summary  
+# 📝 Sigma Web Dev Course — Day 17 (CSS Selectors MasterClass) Summary #3
 
 ---
 
@@ -81,3 +81,4 @@
 - I’m really **excited** because this feels like unlocking the **real power of CSS** — I can now design with accuracy and intention! 🎨✨  
 
 ---
+
