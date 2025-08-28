@@ -1,4 +1,4 @@
-# Day 18 Learning Summary: CSS Box Model - Margin, Padding & Borders  
+# Day 18 Learning Summary: CSS Box Model - Margin, Padding & Borders  #4
 
 ## 📌 Main Topic Covered  
 **CSS Box Model** – Every HTML element is visualized as a rectangular box made up of four layers: content, padding, border, and margin.  
@@ -31,3 +31,4 @@ Today I finally understood that CSS is not just about styling but also about **c
 - Borders help highlight or separate elements visually.  
 
 I realized that mastering the box model is like learning the foundation of CSS layouts – once you get it right, positioning and spacing become much easier.  
+
