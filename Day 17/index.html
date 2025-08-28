@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning Different selectors</title>
+
+    <style>
+        /* this applies to all div tags */
+        div {
+            color: orange;
+            background-color: white;
+        }
+
+        /* Class Selector */
+        .white {
+            background-color: aqua;
+        }
+
+        /* ID Selector  */
+
+        #don {
+            background-color: green;
+        }
+
+        /* child selectors ----> inside the particular tag --> p should be direcctly in the div */
+
+        div>p {
+            color: blue;
+        }
+
+        /* descendent selector ----> if a particular tag is in any child it will be diretly valued */
+
+        div p {
+            background-color: black;
+        }
+
+        /* Universal Selector ---> Selects All  */
+
+        *{
+            color: white;
+        }
+
+        /* Psuedo Selctors  */
+
+        a:visited {
+            color: blue;
+        }
+
+        a:hover {
+            color: chartreuse;
+            background-color: black;
+        }
+
+
+    </style>
+</head>
+
+<body>
+    <div class="white">
+        I am A div tag
+        <pre>
+             <p>
+            My name is Yash i am learning CSS
+        </p>
+        </pre>
+    </div>
+
+    <div id="don">
+        I am don Div tag
+    </div>
+    <a href="https://www.youtube.com">Go To youtube</a>
+</body>
+
+</html>
