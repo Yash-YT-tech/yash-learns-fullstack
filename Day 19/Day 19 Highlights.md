@@ -72,3 +72,10 @@ I felt especially excited when learning about **Google Fonts**, because it gives
 On colors, the idea that we have multiple systems (hex, RGB, HSL) was eye-opening. Hex feels practical for everyday use, while RGB/RGBA feels more like precision control.  
 
 Overall, I’m proud of how far I’ve come. From basic HTML to structured CSS styling, I feel more capable of building websites that not only **work well** but also **look professional**.  
+
+---
+
+📂 Project Files  
+Click to view the files directly:  
+✅ [index.html](./index.html)  
+
