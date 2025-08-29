@@ -62,5 +62,6 @@ This challenge wasn’t just about CSS – it was about thinking like a **proble
 
 📂 Project Files  
 Click to view the files directly:  
-✅ [Exercise Solution](./index.html)  
+✅ [Exercise Solution](./index.html)  --> The file is *Deleted from my system* i will rewrite the exercise #2 code and commit it soon
+
 
