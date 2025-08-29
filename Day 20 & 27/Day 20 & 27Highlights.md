@@ -57,3 +57,10 @@ I initially thought styling only the first paragraph would be tricky, but using 
 What stood out the most for me was understanding the difference between `:first-child` and `:first-of-type`, which can easily confuse beginners. After today, I feel more confident in **structural selectors** and how to apply them smartly.  
 
 This challenge wasn’t just about CSS – it was about thinking like a **problem solver**. And that mindset will help me a lot as I continue building more complex projects. 🚀  
+
+---
+
+📂 Project Files  
+Click to view the files directly:  
+✅ [Exercise Solution](./index.html)  
+
