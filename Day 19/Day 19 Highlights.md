@@ -1,4 +1,4 @@
-# Day 19 Learning Summary: CSS Fonts, Text & Color Properties  
+# Day 19 Learning Summary: CSS Fonts, Text & Color Properties  #5
 
 ## 📌 Main Topic Covered  
 **CSS Typography and Color Systems** – A deep dive into font management, text styling, Google Fonts integration, and different color representation methods used in modern web development.  
@@ -78,4 +78,5 @@ Overall, I’m proud of how far I’ve come. From basic HTML to structured CSS s
 📂 Project Files  
 Click to view the files directly:  
 ✅ [index.html](./index.html)  
+
 
