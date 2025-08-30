@@ -1,4 +1,4 @@
-# 📦 Day 23 Learning Summary: CSS Display Property  
+# 📦 Day 23 Learning Summary: CSS Display Property  #8
 
 ## 🌟 Key Concepts Covered  
 On Day 23, we explored how the **CSS display and visibility properties** impact layout, element flow, and visibility on the page.  
@@ -60,4 +60,5 @@ Today’s lesson made me realize how important the **display property** is for c
 I feel excited to start **playing with flex and grid layouts** on my own pages. The power of **arranging items neatly** and building responsive designs without complicated hacks is motivating.  
 
 Honestly, seeing how much control CSS gives over **both visibility and layout** makes me proud — it feels like I’m really leveling up in professional web development 💻✨.  
+
     
