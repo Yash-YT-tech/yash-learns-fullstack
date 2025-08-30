@@ -42,3 +42,10 @@ I realized how **small details like shadows and outlines can make a website feel
 
 I feel proud to be learning these **advanced styling techniques**, and I’m excited to experiment with them in my own projects. Seeing a flat webpage transform with shadows and outlines is motivating and makes me eager to dive deeper into CSS effects. 💻✨
 
+---
+
+📂 Project Files  
+Click to view the files directly:  
+✅ [HTML File](./index.html) 
+
+
