@@ -1,4 +1,4 @@
-# 📏 Day 22 Learning Summary: CSS Sizing Units  
+# 📏 Day 22 Learning Summary: CSS Sizing Units  #7
 
 ## 🌟 Main Topic Covered  
 An in-depth understanding of **CSS sizing units** — how and when to use **absolute, relative, and viewport-based units** to create responsive and scalable layouts.  
@@ -69,3 +69,4 @@ Today’s deep dive into CSS sizing really clarified the **difference between ab
 I especially liked the trick of setting the root font size (`62.5%`) so that rems are easier to calculate — this feels like a pro move 💻✨. Also, understanding **vh vs %** for height solved a confusion I had while building layouts.  
 
 This session reminded me that **choosing the right unit is as important as writing the style itself** — it’s the key to making sites scale beautifully across devices 📱💻.  
+
