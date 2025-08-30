@@ -70,3 +70,10 @@ I especially liked the trick of setting the root font size (`62.5%`) so that rem
 
 This session reminded me that **choosing the right unit is as important as writing the style itself** — it’s the key to making sites scale beautifully across devices 📱💻.  
 
+---
+
+📂 Project Files  
+Click to view the files directly:  
+✅ [HTML File](./index.html) 
+
+
