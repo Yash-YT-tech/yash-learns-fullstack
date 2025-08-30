@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outlines & Shadows</title>
+    <style>
+        .box {
+            border: 5px solid black;
+            margin: 30px;
+            padding: 10px;
+            box-shadow: 5px 5px 15px 5px #888888;
+       
+        }
+        /* # we can shadows here 
+        /* box-shadow: h-offset v-offset blur spread color inset; ---> its for box */
+
+        .text {
+            text-shadow:2px 2px 4px #888888 ;
+            outline: 5px solid blue;
+            outline-offset: 5px;
+        }
+        /* text-shadow: h-offset v-offset blur color; ---> For text shadows  */
+
+         /* # outline - is not the part of box model */
+
+
+
+
+    </style>
+</head>
+<body>
+    <div class="box">
+        hey i am box
+    </div>
+    <div class="text">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio amet provident commodi, earum recusandae ut maiores deleniti nemo quam illo.
+    </div>
+</body>
+</html>
