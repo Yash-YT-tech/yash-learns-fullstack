@@ -1,4 +1,4 @@
-# Day 21 Learning Summary: CSS Specificity & Cascade  
+# Day 21 Learning Summary: CSS Specificity & Cascade  #6
 
 ## 🎯 Main Topic Covered  
 Today’s learning was all about **how CSS resolves conflicts** when multiple rules target the same element. This happens through the **Cascade Algorithm** and the **Specificity hierarchy**, ensuring predictable and consistent styling.  
@@ -50,3 +50,4 @@ At first, I used to wonder why sometimes my styles didn’t apply even though I 
 The biggest takeaway for me is to **keep selectors simple** and rely more on classes instead of IDs or `!important`. This way, CSS stays clean, predictable, and easy to maintain.  
 
 In short, mastering specificity feels like gaining control over CSS chaos. It’s not just theory — it’s a **practical debugging skill** that will save me a lot of frustration in real-world projects. 🚀  
+
