@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Css Sizing Units</title>
+    <style>
+        .box {
+            border: 2px solid black;
+            width: 80vw;
+            /*---> Adjuts According to devices # cool Enough  */
+            height: 80vh;
+            /* width: 200px ; */
+            background-color: aquamarine;
+            margin: auto 20px;
+            
+
+        }
+
+        /*---> vw & vh Are very cool enough , its easy to apply but very facinating yash ! means bro you are making a responsive website  */
+
+        .rem p {
+            font-size: 2em;
+            background-color: blue;
+            border: 4px solid black;
+            /* width: 1vmin;
+            height: 1vmax */
+        }
+
+        /* # em = multiplies the inheritance
+        # rem = multiplies the root values , means values provided to root that is HTML  */
+
+        /* vmin: 1% of the smaller side of the screen (width or height). vmax: 1% of the bigger side of the screen (width or height). Example: Screen width=1200px,
+        height=800px 1vmin=8px (smaller side) 1vmax=12px (bigger side) Use: vmin → keeps element small on all screens vmax → makes element bigger on all screens */
+
+        .sec p {
+            box-sizing: border-box;
+            margin: 20px;
+            border: 10px solid black;
+            font-size: 30px;
+            background-color: aqua;
+            text-align: center;
+        }
+
+        /* # you can set minimun width / height using min-height = 80vh/vw ---> means it will take 80 % of the height and width on your screen for the particular content which will be for body ofcourse  */
+
+        .para1 {
+            width: 50%;
+        }  
+        /* ----> it will take take the 50 % width of the div element  */
+
+        
+    </style>
+</head>ff
+
+<body>
+    <div class="box">
+        <p class="para1">this is sample box
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis sunt blanditiis vero dolore recusandae, laborum, optio corporis eos sapiente accusantium enim. Amet nihil veritatis facilis fuga hic, adipisci voluptatibus in voluptas cum odio quis illo maxime labore voluptatum corrupti qui iste corporis debitis veniam soluta, tempora inventore placeat ipsum? Ipsa esse cumque praesentium ipsum commodi dolorem delectus. Nisi, magni repellat officiis distinctio omnis, molestiae asperiores nostrum obcaecati labore quia expedita minima cum eligendi vero modi dolorem sequi recusandae ut. Unde veritatis, corrupti quidem quis tenetur optio est reprehenderit repellat neque dignissimos labore voluptatibus soluta sint illo inventore eveniet beatae natus.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ratione culpa nihil itaque cupiditate, consequatur laborum recusandae facilis excepturi ipsum quos eveniet porro consectetur earum molestiae officiis necessitatibus accusantium perspiciatis magni id autem eius nostrum, alias explicabo! Architecto nemo facere tempore id, hic quae nesciunt esse alias dolorem nostrum molestiae inventore perferendis quas iste nam quibusdam ea. Ipsam exercitationem dolore mollitia sint, nobis totam, doloribus qui veritatis incidunt perspiciatis, eligendi repudiandae? Beatae facere error ipsum delectus itaque officia excepturi at, ratione porro maiores minus voluptas molestias dolor amet? Provident quas rerum veritatis molestiae dignissimos consequuntur corporis totam inventore incidunt temporibus!
+        </p>
+    </div>
+    <div class="rem">
+        <p>
+            hey my name is yash and i am trying the em and rem font sizes hahaha!
+        </p>
+    </div>
+    <div class="sec">
+        <p >
+            hey this my second container , lets see how this works out 
+        </p>
+    </div>
+</body>
+
+</html>
