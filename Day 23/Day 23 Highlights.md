@@ -61,4 +61,10 @@ I feel excited to start **playing with flex and grid layouts** on my own pages. 
 
 Honestly, seeing how much control CSS gives over **both visibility and layout** makes me proud — it feels like I’m really leveling up in professional web development 💻✨.  
 
+---
+
+📂 Project Files  
+Click to view the files directly:  
+✅ [HTML File](./index.html) 
     
+
