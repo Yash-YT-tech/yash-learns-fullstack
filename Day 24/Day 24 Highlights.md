@@ -1,4 +1,4 @@
-# 🌟 Day 24 Learning Summary: CSS Shadows & Outlines  
+# 🌟 Day 24 Learning Summary: CSS Shadows & Outlines  #9
 
 ## 📌 Main Topic Covered  
 Today, I explored **CSS shadows and outlines**, learning how to add depth and focus to elements on a webpage while understanding the difference between shadows, outlines, and borders.  
@@ -41,3 +41,4 @@ Today, I explored **CSS shadows and outlines**, learning how to add depth and fo
 I realized how **small details like shadows and outlines can make a website feel polished and professional**. Adding depth with shadows makes elements look tactile and interactive. Understanding the difference between border and outline cleared a lot of my confusion — now I can confidently style elements for both aesthetics and accessibility.  
 
 I feel proud to be learning these **advanced styling techniques**, and I’m excited to experiment with them in my own projects. Seeing a flat webpage transform with shadows and outlines is motivating and makes me eager to dive deeper into CSS effects. 💻✨
+
