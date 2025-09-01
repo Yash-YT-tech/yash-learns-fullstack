@@ -50,4 +50,10 @@ I realized that **lists are way more powerful than just bullets**. With the righ
 
 I feel proud to apply these techniques in my projects, making even simple lists look **professional, accessible, and visually appealing**. 🎨✨
 
-s
+---
+
+📂 Project Files  
+Click to view the files directly:  
+✅ [HTML File](./index.html) 
+
+
