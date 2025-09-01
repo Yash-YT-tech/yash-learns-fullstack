@@ -1,4 +1,4 @@
-# 🌟 Day 25 Learning Summary: Advanced CSS List Styling  
+# 🌟 Day 25 Learning Summary: Advanced CSS List Styling  #10
 
 ## 📌 Main Topic Covered  
 Today I explored **advanced list styling in CSS**, learning how to customize list markers, replace them with images or emojis, and even use lists to create **horizontal navigation bars**.  
@@ -49,4 +49,5 @@ Today I explored **advanced list styling in CSS**, learning how to customize lis
 I realized that **lists are way more powerful than just bullets**. With the right CSS, they can become fully styled, interactive elements like navigation menus. Learning to **control markers, use emojis, and integrate flexbox** feels like unlocking a hidden level of design creativity.  
 
 I feel proud to apply these techniques in my projects, making even simple lists look **professional, accessible, and visually appealing**. 🎨✨
+
 s
