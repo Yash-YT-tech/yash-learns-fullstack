@@ -41,3 +41,9 @@ I realized that **overflow management is key to polished layouts**. Without it, 
 
 I feel excited knowing I can **control overflowing content precisely**—whether to clip, scroll, or elegantly truncate text—giving my projects a **professional and user-friendly touch**. 🎯📏
 
+---
+
+📂 Project Files  
+Click to view the files directly:  
+✅ [HTML File](./index.html) 
+
