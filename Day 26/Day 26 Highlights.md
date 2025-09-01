@@ -1,4 +1,4 @@
-# 🌟 Day 26 Learning Summary: CSS Overflow Property  
+# 🌟 Day 26 Learning Summary: CSS Overflow Property #11  
 
 ## 📌 Main Topic Covered  
 Today I explored the **CSS overflow property**, which controls what happens when content inside a block-level element exceeds its container’s dimensions. This is crucial for building **clean, scrollable, or clipped layouts**.  
@@ -40,3 +40,4 @@ Today I explored the **CSS overflow property**, which controls what happens when
 I realized that **overflow management is key to polished layouts**. Without it, content can spill awkwardly or scroll unnecessarily, making websites look messy.  
 
 I feel excited knowing I can **control overflowing content precisely**—whether to clip, scroll, or elegantly truncate text—giving my projects a **professional and user-friendly touch**. 🎯📏
+
