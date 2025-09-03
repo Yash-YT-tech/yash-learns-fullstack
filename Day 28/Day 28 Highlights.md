@@ -55,3 +55,11 @@ Learning CSS positioning today made me realize how **powerful layout control can
 
 I’m excited to use these techniques to **layer elements perfectly, create sticky headers, and manage overlays**. It gives me confidence to build **professional, responsive, and dynamic web pages**. 🚀📐
 
+---
+
+📂 Project Files  
+Click to view the files directly:  
+✅ [HTML File](./index.html) 
+
+
+
