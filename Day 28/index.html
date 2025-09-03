@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .box1 {
+            background-color: aqua;
+            position: sticky;
+            top: 0px;
+            height: 25px !important ;
+            margin: 0px;
+            padding: 0px;
+           
+            
+        }
+
+        .box2 {
+            background-color: antiquewhite;
+            /* position: relative; */
+            /* top: 20px;
+            bottom: 10px;
+            left: 566px; */
+        }
+
+        .box3 {
+            background-color: palegreen;
+        }
+
+        .box4 {
+            background-color: purple;
+        }
+
+        .box{
+            border: 3px solid black;
+            width: 80vw;
+            height: 4444px;
+            margin: 5px;
+            padding: 5px;
+        }
+
+        .parent{
+            border: 5px solid blue;
+            margin: 50px;
+            padding: 25px;
+        }
+
+        /* # position realative --> Helps to change the visual apperanance / but the space that is originally ocuupied does not changes
+        
+        # postion absolute ---> Looks for the nearest positioned element to adjust further to refernce to that  */
+
+        /* # position fixed ---> this fixes the particular element on the website 
+
+        # postion sticky ----> sticks to upperside when yo scroll down , example - Nav bar  */
+
+        .box1 ul {
+            display: flex;
+            list-style-position: inside;
+            list-style-type: "❤️";
+            justify-content: center;
+            gap: 133px;
+            
+        }
+        /* # yeah i have tried and applied my previous videos logics and learnings here about css lists */
+
+        /* note --> transform , filter , perspective properties aslo acts as postioned elements and the child relates with parent if the any of them are applied  */
+
+
+
+    </style>
+</head>
+<body>
+    <div class="parent">
+        <div class="box box1">
+            <ul>
+                <li>Home</li>
+                <li>About</li>
+                <li>Contact</li>
+                <li>Email</li>
+                <li>Colourplates</li>
+                <li>Codes</li>
+            </ul>
+        </div>
+        <div class="box box2"></div>
+        <div class="box box3"></div>
+        <div class="box box4"></div>
+    </div>
+    
+
+</body>
+</html>
