@@ -1,4 +1,4 @@
-# 🌟 Day 28 Learning Summary: CSS Position Property  
+# 🌟 Day 28 Learning Summary: CSS Position Property  #12
 
 ## 📌 Main Topic Covered  
 Today I explored the **CSS position property**, diving into the five primary positioning schemes: **static, relative, absolute, fixed, and sticky**. Understanding these is crucial for controlling element layout and flow in web pages.  
@@ -54,3 +54,4 @@ Today I explored the **CSS position property**, diving into the five primary pos
 Learning CSS positioning today made me realize how **powerful layout control can be**. I feel proud understanding how static, relative, absolute, fixed, and sticky behave differently.  
 
 I’m excited to use these techniques to **layer elements perfectly, create sticky headers, and manage overlays**. It gives me confidence to build **professional, responsive, and dynamic web pages**. 🚀📐
+
