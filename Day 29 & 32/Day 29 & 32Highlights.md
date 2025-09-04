@@ -62,6 +62,8 @@ I enjoyed learning to **layer badges, text, and buttons neatly**, and the concep
 📂 Project Files  
 Click to view the files directly:  
 ✅ [HTML File](./index.html) 
+✅ [CSS File](./style.css) 
 
 
  
+
