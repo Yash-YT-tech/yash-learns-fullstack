@@ -56,4 +56,12 @@ Today’s challenge was to **create a pixel-perfect card component** using HTML 
 This exercise helped me **bridge the gap between design and code**. I realized that **approximating measurements and using relative sizing** is often more practical than chasing exact pixel values.  
 
 I enjoyed learning to **layer badges, text, and buttons neatly**, and the concept of pill-shaped badges can be reused in navigation bars or tag lists. This gave me confidence to **build visually appealing and reusable UI components**. 🚀🖌️
+
+---
+
+📂 Project Files  
+Click to view the files directly:  
+✅ [HTML File](./index.html) 
+
+
  
