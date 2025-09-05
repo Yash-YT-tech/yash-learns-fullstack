@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Css Variable</title>
+
+    <style>
+
+        :root{
+            --color: rgb(23, 216, 23);
+            --background-color:rgb(233, 216, 23);
+        }
+
+        /* # This are the global variables means they can be used in any selectors 
+        # --variables means the varaibles are defined here  */
+
+        .nav{
+            background-color: var(--color);
+        }
+
+        .container {
+            background-color: var(--background-color);
+        }
+
+
+        .list{
+            display: flex;
+            list-style: none;
+            margin: 20px;
+            padding: 22px;
+            background-color: rgb(88, 195, 88);
+        }
+
+        .list :first-child{
+            --backcolor:rgb(231, 22, 22); 
+            /* ---> Thsi is local variable that means it can be used only n this selectors and not other  */
+
+            background-color: var(--backcolor);
+            
+        }
+    </style>
+</head>
+<body>
+    <div class="nav">
+        <ul class="list">
+            <li>Home</li>
+            <li>about</li>
+            <li>Contact</li>
+        </ul>
+    </div>
+
+    <div class="container">
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita repellat minima sapiente vero, molestiae possimus doloribus esse quos dolorem exercitationem dicta, harum labore optio enim? Inventore sunt architecto necessitatibus. Harum tenetur autem facilis odio quae at dolores ut, quis, id numquam, porro assumenda magnam praesentium velit aut? Nobis, in maiores.
+    </div>
+</body>
+</html>
