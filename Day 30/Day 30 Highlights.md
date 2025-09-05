@@ -1,4 +1,4 @@
-# 🌟 Day 30 Learning Summary: CSS Variables (Custom Properties)
+# 🌟 Day 30 Learning Summary: CSS Variables (Custom Properties) #13
 
 ## 📌 Main Topic Covered  
 I explored **CSS Variables (Custom Properties)**, a modern way to store reusable values like colors, spacing, and font sizes. They make stylesheets more **consistent, flexible, and maintainable**.  
@@ -34,3 +34,4 @@ Learning CSS variables gave me a **new perspective on styling**.
 - I now understand how to manage colors, spacing, and themes efficiently.  
 - I feel confident in using variables for **maintainable and professional web design**.  
 - This knowledge will help me build **modern, responsive, and customizable websites**. 🚀  
+
