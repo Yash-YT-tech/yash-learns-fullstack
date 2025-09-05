@@ -33,5 +33,12 @@ I explored **CSS Variables (Custom Properties)**, a modern way to store reusable
 Learning CSS variables gave me a **new perspective on styling**.  
 - I now understand how to manage colors, spacing, and themes efficiently.  
 - I feel confident in using variables for **maintainable and professional web design**.  
-- This knowledge will help me build **modern, responsive, and customizable websites**. 🚀  
+- This knowledge will help me build **modern, responsive, and customizable websites**. 🚀
+
+---
+
+📂 Project Files  
+Click to view the files directly:  
+✅ [HTML File](./index.html) 
+
 
