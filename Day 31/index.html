@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Media Query</title>
+
+    <style>
+
+        body{
+            background-color: bisque;
+            color: blue;
+        }
+        @media only screen and (max-width: 950px){
+            body{
+                background-color: aqua;
+                color: red;
+            }
+
+            .boxes{
+                flex-direction: column;
+            }
+        }
+
+        /* # So this will apply when it is on screen and have condition (max-width: 600px) & and means both should be true */
+
+        /* # that the interesting , my further websites will be reponsive that the mazza hi mazza ! Lets continue Yash! */
+
+        .box{
+            padding: 100px;
+            margin: 100px;
+            width: 75px;
+            background-color: steelblue;
+            display: flex;
+
+        }
+
+        .boxes{
+            display: flex;
+        }
+    </style>
+</head>
+<body>
+    <div class="body">
+        Hey i am the body & I am Fufirior means brother of Superior 
+    </div>
+    <div class="boxes">
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+    </div>
+    
+</body>
+</html>
