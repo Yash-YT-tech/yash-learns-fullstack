@@ -40,5 +40,5 @@ This exercise showed me how **powerful CSS variables are for theming**.
 
 📂 **Project Files**  
 Click to view the files directly:  
-✅ [HTML File](./index.html)  
+✅ [HTML File](./index%20.html)  
 ✅ [CSS File](./style.css)  
