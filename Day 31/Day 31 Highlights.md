@@ -1,4 +1,4 @@
-# 🌟 Day 31 Learning Summary: CSS Media Queries (Responsive Design) #14  
+# 🌟 Day 31 Learning Summary: CSS Media Queries (Responsive Design)  #14  
 
 ## 📌 Main Topic Covered  
 I explored **CSS Media Queries**, which are essential for creating **responsive websites** that adapt to different devices and screen sizes.  
