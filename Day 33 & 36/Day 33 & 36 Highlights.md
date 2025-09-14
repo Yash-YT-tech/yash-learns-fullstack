@@ -1,4 +1,4 @@
-# 🌟 Day 32 Exercise Summary: Multicolor Website with CSS Variables #15  
+# 🌟 Day 32 Exercise Summary: Multicolor Website with CSS Variables   
 
 ## 📌 Objective  
 I practiced building a **multi-color website template** using **CSS Variables**. The goal was to create a site where switching themes only requires changing a few variables.  
