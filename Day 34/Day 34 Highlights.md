@@ -43,4 +43,4 @@ Learning float/clear gave me a solid perspective on **how web layouts evolved**:
 📂 **Project Files**  
 Click to view the files directly:  
 ✅ [HTML File](./index.html)  
-✅ [](./)  
+✅ [Image](./Teamone.png)  
