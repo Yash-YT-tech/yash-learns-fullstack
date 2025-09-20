@@ -32,7 +32,7 @@ Here, I put my **notes**, **practice code**, and **mini-projects** as I grow tow
 > but the **logic, code, and understanding are mine 💯**
 
 ---
-# About Me
+# <📖 About Me  alt="Typing Animation" />
 https://github.com/Yash-YT-tech/About-Yash/blob/711a47f9cf505503ded5d7abc709755d50e0bce4/README.md
 
 ---
