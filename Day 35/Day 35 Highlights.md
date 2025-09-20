@@ -71,5 +71,5 @@ Today’s lesson showed me how **CSS selectors can go beyond basics** to handle 
 📂 **Project Files**  
 Click to view the files directly:  
 ✅ [HTML File](./index.html)  
-✅ [CSS File](./style.css)  
+ 
 
