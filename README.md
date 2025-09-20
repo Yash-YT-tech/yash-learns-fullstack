@@ -36,14 +36,24 @@ Here, I put my **notes**, **practice code**, and **mini-projects** as I grow tow
 <!-- Progress Bar -->
 ## 📊 Current Learning Progress
 
-gantt
-    title Full-Stack Learning Roadmap
-    dateFormat  YYYY-MM-DD
-    section Basics
-    HTML           :done,    des1, 2025-07-01, 2025-07-15
-    CSS            :active,  des2, 2025-07-16, 2025-09-30
-    JavaScript     :         des3, 2025-10-01, 2025-12-01
-    section Advanced
-    React          :         des4, 2026-01-01, 2026-02-15
-    Node.js + DB   :         des5, 2026-02-16, 2026-04-01
-    MERN Projects  :         des6, 2026-04-02, 2026-06-01
+---
+
+## 📝 Learning Checklist
+
+| Language       | Status                               |
+|----------------|-------------------------------------|
+| HTML           | ✅ Done ![HTML](https://img.shields.io/badge/HTML-Done-brightgreen) |
+| CSS            | ✅ Done ![CSS](https://img.shields.io/badge/CSS-Done-blue) |
+| JavaScript     | 🚀 Started ![JS](https://img.shields.io/badge/JavaScript-Started-yellow) |
+| React          | ⏳ Not Started ![React](https://img.shields.io/badge/React-Pending-lightgrey) |
+| Node.js        | ⏳ Not Started ![Node.js](https://img.shields.io/badge/Node.js-Pending-lightgrey) |
+| MongoDB        | ⏳ Not Started ![MongoDB](https://img.shields.io/badge/MongoDB-Pending-lightgrey) |
+| MERN Projects  | ⏳ Not Started ![MERN](https://img.shields.io/badge/MERN-Pending-lightgrey) |
+
+---
+
+<!-- Optional animated effect using GIF (works on GitHub) -->
+<p align="center">
+  <img src="https://c.tenor.com/1wY04FtrZ0EAAAAi/rocket-launch.gif" alt="Rocket animation" width="120"/>
+</p>
+
