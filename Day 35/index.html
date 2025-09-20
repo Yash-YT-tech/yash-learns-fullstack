@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>More on CSS Selectors</title>
+    <style>
+        .box:first-child {
+            color: rgb(241, 8, 8);
+
+        }
+
+        /* .box::first-line{
+            color: rgb(9, 22, 198);
+        }
+
+        .box::first-letter{
+            color: rgb(0, 0, 0); */
+        /* } */
+
+        /* .boxes * { */
+            /*>> selects everything from the class boxes */
+            /* background-color: rgb(239, 213, 178); */
+        /* } */
+
+        /* ## Selecting an attribute */
+        [data-set="primary"]{
+             padding: 30px;
+        }
+        .box{
+            border: 2px solid black;
+            border-radius: 16px  ;
+        }
+
+        /* ## selecting by grouping thyy are grouped menas we can apply it to multiple selectors */
+        p , a , .box ,[data-set="primary"]{
+             padding: 30px;}
+
+        /* ## by the child  */
+        .box:nth-child(even){  
+            background-color: darkblue;
+        } /* it starts the counting from 1 rather than 0 like other languages */
+
+        .boxes::before{
+            content:"i am before the box";
+            background-color: rgb(106, 193, 224);
+            color: rgb(0, 0, 0);
+
+
+        }
+
+        .boxes::after{
+            content:"i am After the box" ;
+            background-color: rgb(106, 193, 224);
+            color: rgb(0, 0, 0);
+        }
+
+        ::selection{
+            background-color: black;
+            color: aqua;
+        }
+        /* ## while selecting text the selection is applied */
+
+        .box::first-letter{
+            color: peru;
+            font-size: 60px;
+        }
+        input::placeholder{
+            color: rgb(52, 136, 27);
+            /* background-color: rgb(130, 215, 178); */
+        }
+        
+
+
+    </style>
+</head>
+
+<body>
+    <div class="boxes">
+        <div data-set="primary"class="box">Hey i am don box </div>
+
+        <div class="box">Hey i am the don box</div>
+
+        <div class="box">Hey i am the don box</div>
+
+        <div class="box">Hey i am the don box</div>
+        <input type="text" placeholder="Type your fucking Name here">
+    </div>
+    
+</body>
+
+</html>
