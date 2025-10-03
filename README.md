@@ -2,7 +2,7 @@
 
 <!-- Header with Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=🚀+Yash+Learns+Fullstack;First+Tag+to+Full+Stack+Developer;HTML+→+CSS+→+JavaScript+→+MERN" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=🚀+Yash+Learns+Fullstack;First+Tag+to+Full+Stack+Developer;HTML+→+CSS+→+JavaScript+→+MERN" alt="Typing Animation" />  
 </h1>
 
 
