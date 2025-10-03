@@ -19,7 +19,7 @@
 ---
 
 <!-- Intro -->
-## 📖 About This Repo
+## 📖 About This Repo -
 This is my personal journey into **Full-Stack Development**.  
 I’m learning step by step through the **Sigma Web Development Course by CodeWithHarry**.  
 Here, I put my **notes**, **practice code**, and **mini-projects** as I grow toward becoming a **Full-Stack Developer**.
